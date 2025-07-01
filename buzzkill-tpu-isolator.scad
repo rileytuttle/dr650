@@ -1,5 +1,5 @@
-include <BOSL2/std.scad>
-include <rosetta-stone/std.scad>
+include <openscad-library-manager/BOSL2/std.scad>
+include <openscad-library-manager/rosetta-stone/std.scad>
 
 $fn=50;
 
